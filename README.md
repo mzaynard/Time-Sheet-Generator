@@ -7,7 +7,7 @@ Goals:
       2. [x] Allow browse for target directory
       3. [x] Allow browse for timesheet template
       4. [x] Auto-format names to be Lname, Fname
-      5. [ ] Error Handling: Duplicate timesheets already exist
-      6. [ ] Error Handling: No target directory defined
-      7. [ ] Error Handling: No template defined
+      5. [X] Error Handling: Duplicate timesheets already exist
+      6. [X] Error Handling: No target directory defined
+      7. [X] Error Handling: No template defined
 2. Collect daily data from the list of timecards to display and calculate reviewer time billed on a daily, weekly, and project-to-date basis.
